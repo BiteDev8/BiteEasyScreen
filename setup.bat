@@ -4,3 +4,5 @@ pip install schedule
 pip install keyboard
 pip install colorama
 pip install pyfiglet
+pip install pillow
+pip install json
