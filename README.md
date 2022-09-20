@@ -14,3 +14,5 @@ insert your webhook discord only
 and insert you keyboard shortcut like this : ctrl+alt+y
 
 Enjoy !
+
+https://discord.gg/Fe2c96pp77
